@@ -1,19 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>https://rankgenius22423.github.io/Rankgenius.digital/</loc>
+    <loc>https://rankgenius-digital.github.io/Rankgenius.digital/</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
   <url>
-    <loc>https://rankgenius22423.github.io/Rankgenius.digital/about.html</loc>
+    <loc>https://rankgenius-digital.github.io/Rankgenius.digital/about.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://rankgenius-digital.github.io/Rankgenius.digital/services.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://rankgenius-digital.github.io/Rankgenius.digital/packages.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://rankgenius22423.github.io/Rankgenius.digital/services.html</loc>
+    <loc>https://rankgenius-digital.github.io/Rankgenius.digital/industry.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://rankgenius22423.github.io/Rankgenius.digital/contact.html</loc>
+    <loc>https://rankgenius-digital.github.io/Rankgenius.digital/contact.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://rankgenius-digital.github.io/Rankgenius.digital/consultation.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://rankgenius-digital.github.io/Rankgenius.digital/we-serve.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
+
+
