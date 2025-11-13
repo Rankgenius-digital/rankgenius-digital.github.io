@@ -4,45 +4,86 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Get Free Consultation | RankGenius Digital | Expert SEO & Marketing Advice</title>
-<meta name="description" content="Book a free consultation with RankGenius Digital — India’s best AI-powered marketing agency. Get insights and strategies to boost your brand visibility and ROI.">
-<meta name="keywords" content="free consultation, RankGenius Digital, SEO audit, marketing advice, digital growth plan, AI marketing experts, India">
+  <meta name="description" content="Book a free consultation with RankGenius Digital — India’s best AI-powered marketing agency. Get insights and strategies to boost your brand visibility and ROI.">
+  <meta name="keywords" content="free consultation, RankGenius Digital, SEO audit, marketing advice, digital growth plan, AI marketing experts, India">
 
-  <title>Get Free Consultation | RankGenius</title>
   <link rel="stylesheet" href="styles.css">
+  <style>
+    /* ✅ Extra styling for the embedded Google Form */
+    body.consult-body {
+      background: #0d0d26;
+      color: #fff;
+      font-family: "Poppins", sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 80px 20px;
+    }
+
+    .consult-form-container {
+      max-width: 900px;
+      margin: auto;
+      background: rgba(255, 255, 255, 0.05);
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
+    }
+
+    .consult-form-container h1 {
+      color: #fff;
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+
+    .consult-form-container p {
+      color: #b3b5c6;
+      font-size: 1rem;
+      margin-bottom: 30px;
+    }
+
+    iframe {
+      width: 100%;
+      height: 950px;
+      border: none;
+      border-radius: 10px;
+      background: #fff;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-top: 25px;
+      color: #9fa3ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .back-link:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      .consult-form-container {
+        padding: 25px 15px;
+      }
+
+      iframe {
+        height: 1100px;
+      }
+    }
+  </style>
 </head>
+
 <body class="consult-body">
-
   <div class="consult-form-container" role="main">
-    <h1 id="consultTitle">Get Your Free Consultation</h1>
-    <p>Fill out the form below and our team will get in touch with you shortly.</p>
+    <h1>Get Your Free Consultation</h1>
+    <p>Fill out the form below — our digital marketing team will connect with you shortly.</p>
 
-    <form id="consultForm" class="consult-form" autocomplete="on">
-      <input type="text" name="name" id="name" placeholder="Full Name" required />
-      <input type="tel" name="number" id="number" placeholder="Phone Number" required />
-      <input type="email" name="email" id="email" placeholder="Email Address" required />
-      <input type="url" name="url" id="url" placeholder="Website URL" />
-      <select name="industry" id="industry" required>
-        <option value="">Select Industry</option>
-        <option value="education">Education & eLearning</option>
-        <option value="ecommerce">E-commerce</option>
-        <option value="healthcare">Healthcare</option>
-        <option value="realestate">Real Estate</option>
-        <option value="it">IT & Software</option>
-        <option value="other">Other</option>
-      </select>
-
-      <label for="enquire" style="text-align:left; width:100%; color:#9699ab;">You Enquire</label>
-      <textarea id="enquire" name="enquire" placeholder="Tell us about your inquiry" rows="4" style="resize:vertical;"></textarea>
-
-      <button type="submit" class="btn-submit">Submit Request</button>
-    </form>
-
-    <p id="thankyou" style="display:none; margin-top:1rem; color:#dff0d8; font-weight:700;"></p>
+    <!-- ✅ Embedded Google Form -->
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdo0f0SdUATjbOsR6XRQnhub-03oH8y9mTkv53qSQS2VEHO3w/viewform"
+            allowfullscreen>
+      Loading…
+    </iframe>
 
     <a href="index.html" class="back-link">← Back to Home</a>
   </div>
-
-  <script src="script.js"></script>
-
 </body>
 </html>
