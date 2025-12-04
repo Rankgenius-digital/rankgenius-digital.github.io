@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Button-to-Form & Calendly Mapping
   // ============================
   const formLink = "consultation.html";
-  const calendlyLink = "https://calendly.com/rankgenius-digital/30min?month=2025-11"; // ✅ Your Live Calendly Link
+  const calendlyLink = "https://calendly.com/rankgenius-digital/30min"; // ✅ Your Live Calendly Link
 
   // Buttons leading to consultation form
   const mapToFormSelectors = [
@@ -301,4 +301,5 @@ setInterval(() => {
 window.addEventListener("resize", () => goToSlide(currentSlide));
 
 goToSlide(0);
+
 
