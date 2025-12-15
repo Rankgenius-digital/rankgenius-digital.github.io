@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rankgenius-digital.github.io/Rankgenius.digital/sitemap.xml
-
+Sitemap: https://rankgenius22423.github.io/Rankgenius.digital/sitemap.xml
